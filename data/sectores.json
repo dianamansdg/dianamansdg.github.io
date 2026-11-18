@@ -1,0 +1,50 @@
+[
+  {
+    "ID sector": "S01",
+    "Sector destinatario": "Gestión de residuos radiactivos"
+  },
+  {
+    "ID sector": "S02",
+    "Sector destinatario": "Seguridad radiológica y nuclear"
+  },
+  {
+    "ID sector": "S03",
+    "Sector destinatario": "Caracterización y clasificación de residuos"
+  },
+  {
+    "ID sector": "S04",
+    "Sector destinatario": "Almacenamiento y acondicionamiento"
+  },
+  {
+    "ID sector": "S05",
+    "Sector destinatario": "Transporte de materiales radiactivos"
+  },
+  {
+    "ID sector": "S06",
+    "Sector destinatario": "Instalaciones y tecnología"
+  },
+  {
+    "ID sector": "S07",
+    "Sector destinatario": "Regulación y licenciamiento"
+  },
+  {
+    "ID sector": "S08",
+    "Sector destinatario": "Monitoreo ambiental"
+  },
+  {
+    "ID sector": "S09",
+    "Sector destinatario": "Desmantelamiento de instalaciones"
+  },
+  {
+    "ID sector": "S10",
+    "Sector destinatario": "Emergencias y contingencias"
+  },
+  {
+    "ID sector": "S11",
+    "Sector destinatario": "Investigación y desarrollo"
+  },
+  {
+    "ID sector": "S12",
+    "Sector destinatario": "Cooperación y asuntos internacionales"
+  }
+]

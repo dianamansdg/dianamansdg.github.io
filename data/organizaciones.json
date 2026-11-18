@@ -1,0 +1,30 @@
+[
+  {
+    "ID organización": "O01",
+    "Organización destinataria": "CNEA"
+  },
+  {
+    "ID organización": "O03",
+    "Organización destinataria": "NA-SA"
+  },
+  {
+    "ID organización": "O05",
+    "Organización destinataria": "DIOXITEK"
+  },
+  {
+    "ID organización": "O06",
+    "Organización destinataria": "INVAP"
+  },
+  {
+    "ID organización": "O08",
+    "Organización destinataria": "CONUAR"
+  },
+  {
+    "ID organización": "O10",
+    "Organización destinataria": "MRECIC"
+  },
+  {
+    "ID organización": "O12",
+    "Organización destinataria": "SAR"
+  }
+]
